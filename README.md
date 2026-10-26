@@ -16,7 +16,7 @@ it is not working, win10
 
 
 manual jpg, usb conection,
-[JNN_S6_錄音表_32G_user_manual_Page_4.jpg](JNN_S6_錄音表_32G_user_manual_Page_4.jpg)    
-[JNN_S6_錄音表_32G_user_manual_Page_3.jpg](JNN_S6_錄音表_32G_user_manual_Page_3.jpg)    
-[JNN_S6_錄音表_32G_user_manual_Page_2.jpg](JNN_S6_錄音表_32G_user_manual_Page_2.jpg)    
-[JNN_S6_錄音表_32G_user_manual_Page_1.jpg](JNN_S6_錄音表_32G_user_manual_Page_1.jpg)    
+![JNN_S6_錄音表_32G_user_manual_Page_4.jpg](JNN_S6_錄音表_32G_user_manual_Page_4.jpg)    
+![JNN_S6_錄音表_32G_user_manual_Page_3.jpg](JNN_S6_錄音表_32G_user_manual_Page_3.jpg)    
+![JNN_S6_錄音表_32G_user_manual_Page_2.jpg](JNN_S6_錄音表_32G_user_manual_Page_2.jpg)    
+![JNN_S6_錄音表_32G_user_manual_Page_1.jpg](JNN_S6_錄音表_32G_user_manual_Page_1.jpg)    
